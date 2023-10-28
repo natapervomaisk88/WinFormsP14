@@ -1,0 +1,17 @@
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\bin\Debug\net7.0-windows\Lesson_27_10.exe
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\bin\Debug\net7.0-windows\Lesson_27_10.deps.json
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\bin\Debug\net7.0-windows\Lesson_27_10.runtimeconfig.json
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\bin\Debug\net7.0-windows\Lesson_27_10.dll
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\bin\Debug\net7.0-windows\Lesson_27_10.pdb
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\obj\Debug\net7.0-windows\Lesson_27_10.csproj.AssemblyReference.cache
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\obj\Debug\net7.0-windows\Lesson_27_10.Form1.resources
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\obj\Debug\net7.0-windows\Lesson_27_10.csproj.GenerateResource.cache
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\obj\Debug\net7.0-windows\Lesson_27_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\obj\Debug\net7.0-windows\Lesson_27_10.AssemblyInfoInputs.cache
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\obj\Debug\net7.0-windows\Lesson_27_10.AssemblyInfo.cs
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\obj\Debug\net7.0-windows\Lesson_27_10.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\obj\Debug\net7.0-windows\Lesson_27_10.dll
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\obj\Debug\net7.0-windows\refint\Lesson_27_10.dll
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\obj\Debug\net7.0-windows\Lesson_27_10.pdb
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\obj\Debug\net7.0-windows\Lesson_27_10.genruntimeconfig.cache
+C:\Users\Natalya\source\repos\WF_P14\Lesson_27_10\obj\Debug\net7.0-windows\ref\Lesson_27_10.dll
